@@ -12,7 +12,9 @@ for example:
 Means
 
  5X1 - 2X2 + 3X3 = -1
+ 
 -3X1 + 9X2 + 1X3 =  2
+
  2X1 - 1X2 - 7X3 =  3
 
 
